@@ -1,1 +1,3 @@
 src/main/webapp/static/* linguist-vendored
+*.js linguist-vendored=true
+*.css linguist-vendored=true
